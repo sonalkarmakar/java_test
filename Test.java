@@ -1,4 +1,4 @@
-// Adding a comment to trigger a job
+// Changing a comment to trigger a job
 public class Test {
 	static void add() {
 		int a = 50;
