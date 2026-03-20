@@ -3,7 +3,7 @@ public class Test {
 		int a = 50;
 		int b = 10;
 		int sum = a + b;
-		System.out.println("The result is " + sum);
+		System.out.println("The result is " + /*multiplier*/sum);
 	}
 	public static void main(String[] args) {
 		add();
