@@ -1,7 +1,7 @@
 public class Test {
 	static void add() {
-		int a = 50;
-		int b = 10;
+		int a = 58;
+		int b = 89;
 		int sum = a + b;
 		System.out.println("The result is " + /*multiplier*/sum);
 	}
